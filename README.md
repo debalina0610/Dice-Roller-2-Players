@@ -1,5 +1,8 @@
 # ***Dice Roller (2 Players)***
 
+<br />
+<img align=center alt="Dice" width="200" height="200" src="https://media.istockphoto.com/vectors/two-white-dices-casino-icon-vector-id621835726?k=20&m=621835726&s=612x612&w=0&h=LgvZksLRkjBFp6TKjKPFdix6HNrylcmdnYCqUYpW9GA=">
+
 ## **About the game**
 
 This is a dice rolling game that you play with two dice and a lot of luck. 
