@@ -209,7 +209,7 @@ public class DiceRoller extends AppCompatActivity {
         AlertDialog.Builder alert = new AlertDialog.Builder(this);
         alert.setCancelable(false);
         alert.setMessage("Exit Game !!");
-       alert.setNegativeButton("NO", null);
+        alert.setNegativeButton("NO", null);
         alert.setPositiveButton("YES", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
